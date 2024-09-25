@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "TypeRacer",
+    "host": "localhost",
+    "dialect": "mssql",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "TypeRacer",
+    "host": "localhost",
+    "dialect": "mssql",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "TypeRacer",
+    "host": "localhost",
+    "dialect": "mssql",
+    "logging": false
+  }
+}
